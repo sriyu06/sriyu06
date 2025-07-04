@@ -3,7 +3,7 @@
 
 ---
 
-🔭 I’m currently working on:
+🔭 I’ve worked on:
 - 🧬 MRD detection in Lymphoma using deep learning
 - 🦙 Fine-tuning LLaMA 2 with QLoRA for domain-specific QA
 - 🌫️ Image dehazing using boundary constraint-based CNNs
