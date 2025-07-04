@@ -21,11 +21,9 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/sriyu)
 
 📂 Projects:
-- 🧠 [MRD Detection in Lymphoma](https://github.com/sriyu06/mrd-lymphoma)
-- 🤖 [LLaMA 2 QA Bot with QLoRA](https://github.com/sriyu06/llama2-qa-health)
-- 🌫️ [Image Dehazing for Surveillance](https://github.com/sriyu06/image-dehazing)
-
-⚡ Fun fact: I love creating collaborative vlogs with friends and diving into AI research papers on weekends!
+- 🧠 [MRD Detection in Lymphoma]
+- 🤖 [LLaMA 2 QA Bot with QLoRA]
+- 🌫️ [Image Dehazing for Surveillance]
 
 ---
 
@@ -43,8 +41,4 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sriyu06&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sriyu06&theme=tokyonight" alt="streaks"/>
-</p>
+
